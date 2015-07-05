@@ -3,6 +3,14 @@ Bayesian spam or ham Classifer
 
 A very basic implementation of Naive-Bayes classifier for classifying the document as spam or ham.
 
+Dependecies :
+
+PickleDB :
+
+https://pythonhosted.org/pickleDB/
+
+NLTK (for tokenizing)
+
 Dataset used :
 
 https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
