@@ -41,3 +41,11 @@ Class : spam :: Score : 99.41228501192559%
 >> Hi how are you doing today rahul
 
 Class : ham :: Score : 99.96228201578403%
+
+
+
+References :
+https://web.stanford.edu/class/cs124/lec/naivebayes.pdf
+
+https://en.wikipedia.org/wiki/Document_classification
+
