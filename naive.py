@@ -131,7 +131,7 @@ def get_winner(scores):
         if scores[classes] > bestscore:
             bestscore = scores[classes]
             bestclass = classes
-    print("Class : "+bestclass + " :: Score : "+str(bestscore))
+    print("Class : "+bestclass + " :: Score : "+str(bestscore*100)+"%") 
 
 
 
