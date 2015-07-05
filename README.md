@@ -13,12 +13,19 @@ training for a single dataset should be done only once. If the dataset is alread
 Enter the text to be classifed from standard input.
 
 Example :
+
 python naive.py
+
 train or predict : 1 or 2
+
 1
+
 Train complete.. Predict now
+
 >>> Congratulations you won a lottery
+
 Class : spam :: Score : 99.41228501192559%
 
 >> Hi how are you doing today rahul
+
 Class : ham :: Score : 99.96228201578403%
