@@ -3,6 +3,10 @@ Bayesian spam or ham Classifer
 
 A very basic implementation of Naive-Bayes classifier for classifying the document as spam or ham.
 
+Dataset used :
+
+https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection
+
 Usage :
 
 python naive.py
